@@ -32,8 +32,8 @@ using namespace std;
 #define FOR(i,a,b)  for (int i = (a); i <= (b); ++i)
 #define FORR(i,a,b) for (int i = (a); i >= (b); --i)
 #define MOD 1000000007
-#define MOD 100000007
-#define MOD 10000019
+#define MOD1 100000007
+#define MOD2 10000019
 using ll   = long long;
 using ull  = unsigned long long;
 using ld   = long double;
