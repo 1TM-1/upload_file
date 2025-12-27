@@ -17,7 +17,6 @@ using namespace std;
 #define fio ios_base::sync_with_stdio(0);cin.tie(0);
 #define fi first
 #define se second
-#define int long long
 #define vi  vector<int>
 #define pll pair<long long, long long>
 #define vt vector
