@@ -1,7 +1,3 @@
-# upload_file
-Kam_template
-
-```text
 //#pragma GCC target ("avx2")
 //#pragma GCC optimize ("O3")
 //#pragma GCC optimize ("unroll-loops")
@@ -33,10 +29,10 @@ using namespace std;
 #define MOD 1000000007
 #define MOD1 100000007
 #define MOD2 10000019
-using ll   = long long;
-using ull  = unsigned long long;
-using ld   = long double;
-const int maxn = 1e7;
+#define ll long long;
+#define ull unsigned long long;
+#define ld long double;
+const int maxn = 1e6 + 1;
 
 signed main()
 {
@@ -50,4 +46,3 @@ signed main()
 
     return 0;
 }
-```
