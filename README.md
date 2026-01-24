@@ -2,14 +2,14 @@
 //#pragma GCC target ("avx2")
 //#pragma GCC optimize ("O3")
 //#pragma GCC optimize ("unroll-loops")
-
+ 
 //#pragma GCC optimize ("O2")
 //#pragma GCC optimize ("Os")
-
+ 
 #include <bits/stdc++.h>//Kam
-
+ 
 using namespace std;
-
+ 
 #define TASK ""
 #define fio ios_base::sync_with_stdio(0);cin.tie(0);
 #define fi first
@@ -27,12 +27,12 @@ using namespace std;
 #define sz(x) int((x).size())
 #define FOR(i,a,b)  for (int i = (a); i <= (b); ++i)
 #define FORR(i,a,b) for (int i = (a); i >= (b); --i)
-#define MOD 1000000007
+#define MOD 1234567891
 #define MOD1 100000007
 #define MOD2 10000019
-#define ll long long;
-#define ull unsigned long long;
-#define ld long double;
+#define ll long long
+#define ull unsigned long long
+#define ld long double
 const int maxn = 1e6 + 1;
 
 signed main()
